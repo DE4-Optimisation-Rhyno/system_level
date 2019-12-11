@@ -23,4 +23,4 @@ b = [-250];
 
 %--------Using linear regression to find mass again---------------
 
-mass_subsystem_1 = Opti_dims(1)*Betas_mass(1) + Opti_dims(2)*Betas_mass(2) + Opti_dims(3)*Betas_mass(3); %mass of the subsystemma
+mass_subsystem_1 = Opti_dims(1)*Betas_mass(1) + Opti_dims(2)*Betas_mass(2) + Opti_dims(3)*Betas_mass(3); %mass of the subsystem
